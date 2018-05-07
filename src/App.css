@@ -1,0 +1,27 @@
+
+body { padding-top: 60px; }
+
+h4 {
+  min-height: 53px;
+}
+
+.navbar {
+  background: #E0E0E0 !important;
+}
+
+.img-thumbnail {
+  margin-bottom: 10px;
+}
+
+.btn-circle {
+  background-color: white;
+  border-radius: 15px;
+  width: 30px;
+  height: 30px;
+  margin: 3px;
+  font-size: 12px;
+  /*text-align: center;*/
+  /*padding: 6px 0;*/
+  /*line-height: 1.428571429;*/
+
+}
