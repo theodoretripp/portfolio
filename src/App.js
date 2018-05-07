@@ -13,10 +13,10 @@ class App extends Component {
       <div className="App container-fluid text-muted text-left">
         <Nav />
         <Home />
+        <About />
         <Portfolio />
         <Contact />
         <Social />
-        <About />
       </div>
     );
   }
