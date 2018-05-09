@@ -3,7 +3,8 @@ Portfolio Repo Readme:
 Todo list:
   - Fix social buttons
   - Add Navbar expansion and pushes down content
-  - Make portfolio grid a loop instead of hard coding it.
+  - Make portfolio grid a loop instead of hard coding it
+  - Fix project and app folder names to be: portfolio
 
 _______________
 
