@@ -2,9 +2,21 @@ Portfolio Repo Readme:
 
 Todo list:
   - Fix social buttons
-
   - Make portfolio grid a loop instead of hard coding it
-  - Fix project and app folder names to be: portfolio
+  - Switch imgs from CodePen generated to my own img
+  - Style: check other portfolios, request feedback
+  - Switch each project to it's own repo, heroku deployment
+  - Improve the listed projects
+  - Security update
+  - Accessibility update
+  - Responsivness update
+
+
+Github Repo: https://github.com/theodoretripp/portfolio
+
+Development URL: https://base-react-theodoretripp.c9users.io/
+
+Production URL: https://theodoretripp-portfolio.herokuapp.com/
 
 _______________
 
