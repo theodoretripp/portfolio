@@ -1,9 +1,11 @@
 Portfolio Repo Readme:
 
 Todo list:
-  - Fix social buttons
   - Make portfolio grid a loop instead of hard coding it
-  - Switch imgs from CodePen generated to my own img
+  - Pick favicon
+  - Add whitespace at bottom of page
+  - Switch to new favicon
+  - Switch imgs from CodePen generated to own imgs
   - Style: check other portfolios, request feedback
   - Switch each project to it's own repo, heroku deployment
   - Improve the listed projects
