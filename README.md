@@ -3,7 +3,6 @@ Portfolio Repo Readme:
 Todo list:
   - Make portfolio grid a loop instead of hard coding it
   - Pick favicon
-  - Add whitespace at bottom of page
   - Switch to new favicon
   - Switch imgs from CodePen generated to own imgs
   - Style: check other portfolios, request feedback

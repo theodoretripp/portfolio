@@ -5,7 +5,7 @@ const Home = props => {
     <div id="home">
       <h1>Theodore Tripp</h1>
       <p>
-        Software developer with experience in React/.NET web dev, legacy application maintenance,
+        Software developer with experience in Javascript, React, legacy application maintenance,
         database development and reporting.
       </p>
     </div>

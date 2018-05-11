@@ -5,7 +5,7 @@ const About = props => {
     <div id="about">
       <h2>About</h2>
       <p>
-        My portfolio is made with create-react-app. I used Cloud9 as my dev environment and deploy to Heroku from Github.
+        My portfolio site is made with Create React App. I use Cloud9 as my dev environment and deploy to Heroku from Github.
       </p>
     </div>
   );
